@@ -1,0 +1,21 @@
+# POST http://localhost:3003/api/blogs
+# Content-Type: application/json
+
+# {
+#         "title": "Learn Ruby on Rails: Book One", 
+#         "author": "Daniel Kehoe",
+#         "url": "https://www.amazon.com/Learn-Ruby-Rails-Book-One-ebook/dp/B00QK2T1SY",
+#         "likes": 79
+# }
+
+
+
+POST http://localhost:3003/api/users
+Content-Type: application/json
+
+{
+        "name": "root",
+        "username": "superadmin",
+        "password": "hercula"
+}
+
