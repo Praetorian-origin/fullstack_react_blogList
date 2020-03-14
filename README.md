@@ -1,7 +1,7 @@
 # fullstack_react_blogList
 
 Store blog lists, and users can like blogs.
-NodeJS as backend
+NodeJS with express as backend
 React with redux as frontEnd.
 
 You need to be logged to do all operations.
